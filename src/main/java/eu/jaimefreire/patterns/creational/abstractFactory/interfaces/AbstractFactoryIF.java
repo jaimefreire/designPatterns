@@ -5,7 +5,6 @@ package eu.jaimefreire.patterns.creational.abstractFactory.interfaces;
  */
 public interface AbstractFactoryIF {
 
-    public void createProductA(AbstractProductAIF abstractProductA);
+    public AbstractProduct createProduct(String nameAbstractProductA);
 
-    public void createProductB(AbstractProductBIF abstractProductB);
 }
