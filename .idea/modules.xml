@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Patterns.iml" filepath="$PROJECT_DIR$/.idea/modules/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Patterns_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Patterns_main.iml" group="Patterns" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Patterns_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Patterns_test.iml" group="Patterns" />
     </modules>
   </component>
 </project>
